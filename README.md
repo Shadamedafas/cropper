@@ -1,4 +1,4 @@
-# Cropper
+# Cropper Fork
 
 > A simple jQuery image cropping plugin.
 
